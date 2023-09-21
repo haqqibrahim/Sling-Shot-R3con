@@ -20,6 +20,7 @@ Sling Shot R3con is a powerful open-source reconnaissance tool designed to autom
 Make sure to install the required dependencies by running the following script:
 
 ```bash
+chmod +x ./requirements.sh
 ./requirements.sh
 ```
 
