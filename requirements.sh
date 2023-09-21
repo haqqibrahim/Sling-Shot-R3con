@@ -7,3 +7,5 @@ go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
 go install github.com/pry0cc/tew@latest
 go install github.com/projectdiscovery/katana/cmd/katana@latest
 go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+
+chmod +x ./shoot.sh
