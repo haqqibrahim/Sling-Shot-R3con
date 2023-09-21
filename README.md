@@ -1,3 +1,4 @@
+![sling](https://github.com/haqqibrahim/Sling-Shot-R3con/assets/68786496/d32453c2-91fa-4236-8b13-f1adeacd9842)
 
 ```markdown
 # Sling Shot R3con: Automate Your Bug Bounty and Pentest Reconnaissance 🎯
